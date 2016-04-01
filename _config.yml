@@ -1,0 +1,28 @@
+name: Digital artist
+favicon: null
+layout_spectrum: 0.010527057340368629
+typography_spectrum: 0.6392049500718713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6107482484076172
+  lightness: 0.6924178630579263
+  saturation: 0.3803568684961647
+  rhythmicContrast: 0.0061983815394341946
+purpose: []
