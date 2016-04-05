@@ -1,20 +1,4 @@
-name: Digital artist
-favicon: null
-layout_spectrum: 0.78148
-typography_spectrum: 0.53096
-title: Kristinn Gudmundsson
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#060000'
@@ -24,6 +8,11 @@ color:
     - '#bb2b06'
   brandStrength: 0
   lightness: 0.1875
-  saturation: 0.3125
   rhythmicContrast: 0.25
+  saturation: 0.3125
+cta: {}
+layout_spectrum: 0.872944
+name: Digital artist
+opengraph: {}
 purpose: []
+typography_spectrum: 0.53096
