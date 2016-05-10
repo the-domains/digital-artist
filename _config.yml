@@ -1,4 +1,19 @@
-analytics: {}
+name: Digital artist
+favicon: null
+layout_spectrum: 0.880345
+typography_spectrum: 0.53096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#060000'
@@ -6,13 +21,8 @@ color:
     - '#a31d02'
     - '#730b02'
     - '#bb2b06'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.1875
-  rhythmicContrast: 0.25
   saturation: 0.3125
-cta: {}
-layout_spectrum: 0.880345
-name: Digital artist
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.53096
